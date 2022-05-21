@@ -4,7 +4,8 @@ Classify Winter, Karina, NingNing with google image crawler
 Toy project for train pytorch on colab
 
 Using colab is different from local environment
-So, you can try this simple and interesting project
+
+So, you can try this simple and interesting project to practice colab
 
 
 
